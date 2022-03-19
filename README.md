@@ -20,7 +20,7 @@ O login e realizado somente quando esse token for marcado como "authenticated",
 caso contrario o login ira falhar.
 
 
-### Valiation :heavy_check_mark:
+### Validation :heavy_check_mark:
 
 A validacao dos campos como userName e password sao feitos atraves da classe
 "validator", na qual toda a regra de validacao e implementada nela.
