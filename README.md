@@ -22,7 +22,7 @@ caso contrario o login ira falhar.
 
 ### Validation :heavy_check_mark:
 
-A validacao dos campos como userName e password sao feitos atraves da classe
+A validacao dos campos como userName e password sao feitas atraves da classe
 "validator", na qual toda a regra de validacao e implementada nela.
 
 ## DevTools :hammer:
