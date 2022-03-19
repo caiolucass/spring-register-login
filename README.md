@@ -16,7 +16,7 @@ e varios cargos podem estar atribuidos a diversos usuarios "ManyToMany".
 
 ### Login :heavy_check_mark:
 
-O login e realizado somente quando esse token for marcado como "authenticated". Caso ocontrario, o login ira falhar!
+O login e realizado somente quando esse token for marcado como "authenticated". Caso o contrario, o login ira falhar!
 
 
 ### Validation :heavy_check_mark:
