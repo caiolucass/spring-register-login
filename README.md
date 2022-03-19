@@ -47,7 +47,7 @@ A validacao dos campos como userName e password sao feitos atraves da classe
 
 ## Front-end :warning: 
 
-O front end tambem ira ser implementdo em breve, visto que o controler ja esta pronto. E que eu
+O front end tambem ira ser implementdo em breve, visto que o controller ja esta pronto. E que eu
 possuo dificuldade com front mesmo :joy: .
 
 
