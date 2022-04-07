@@ -40,7 +40,7 @@ public class UsuarioController {
     @GetMapping("/login")
     public String login(Model model, String error, String logout){
         if(error != null){
-            model.addAttribute("error", "Seu nome de usuario e senha sao invealidos.");
+            model.addAttribute("error", "Seu nome de usuario e senha sao invalidos.");
         }
         if(logout != null){
             model.addAttribute("message", "Voce deslogou com sucesso.");
