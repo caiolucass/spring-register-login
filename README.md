@@ -16,13 +16,12 @@ e varios cargos podem estar atribuidos a diversos usuarios "ManyToMany".
 
 ### Login :heavy_check_mark:
 
-O login e realizado somente quando esse token for marcado como "authenticated",
-caso contrario o login ira falhar.
+O login e realizado somente quando esse token for marcado como "authenticated". Caso o contrario, o login ira falhar!
 
 
-### Valiation :heavy_check_mark:
+### Validation :heavy_check_mark:
 
-A validacao dos campos como userName e password sao feitos atraves da classe
+A validacao dos campos como userName e password sao feitas atraves da classe
 "validator", na qual toda a regra de validacao e implementada nela.
 
 ## DevTools :hammer:
@@ -47,7 +46,7 @@ A validacao dos campos como userName e password sao feitos atraves da classe
 
 ## Front-end :warning: 
 
-O front end tambem ira ser implementdo em breve, visto que o controler ja esta pronto. E que eu
+O front end tambem ira ser implementdo em breve, visto que o controller ja esta pronto. E que eu
 possuo dificuldade com front mesmo :joy: .
 
 
